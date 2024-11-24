@@ -2,7 +2,7 @@
 #RUS
 #KZ
 
-You can do this project if it suits your knowledge and experience in Python and machine learning (ML). 
+This project was implemented in accordance with the knowledge and experience in Python and machine learning (ML).
 The given task is about developing an aspect-oriented tonal analysis system, and here it is necessary to use Natural Language Processing (NLP) and machine learning algorithms.
 
 We import the necessary libraries
@@ -22,7 +22,7 @@ download the necessary modules from the NLTK library
  Using a pre-prepared model from Hugging Face (optional)
 
 
-Вы можете выполнить этот проект, если он соответствует вашим знаниям и опыту в области Python и машинного обучения (ML). 
+Этот проект был выполнен в соответствии со знаниями и опытом в области Python и машинного обучения (ML). 
 Данная задача посвящена разработке системы тонального анализа, ориентированной на аспект, и здесь необходимо использовать Natural Language Processing (NLP) и алгоритмы машинного обучения.
 
 Импортируем необходимые библиотеки
@@ -41,7 +41,7 @@ download the necessary modules from the NLTK library
  Вывод результата прогноза
  Использование готовой модели от Hugging Face (необязательно)
 
-Бұл жоба сіздің Python және машинамен оқыту (ML) бойынша біліміңізге және тәжірибеңізге сай болса, орындай аласыз. 
+Бұл жоба Python және машинамен оқыту (ML) бойынша білімГЕ және тәжірибеГЕ сай болып орындалды. 
 Берілген тапсырма аспектке бағытталған тональдық анализ жүйесін жасау туралы, ал мұнда Natural Language Processing (NLP) және машиналық оқыту алгоритмдерін қолдану қажет.
 
 Қажетті кітапханаларды импорттаймыз
